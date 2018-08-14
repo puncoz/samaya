@@ -1,6 +1,6 @@
 {
     "name": "puncoz/samaya",
-    "description": "samaya",
+    "description": "PHP API Extension for DateTime in Nepali (BS) format.",
     "type": "library",
     "keywords": ["php","samaya", "carbon", "nepali date"],
     "license": "MIT",
